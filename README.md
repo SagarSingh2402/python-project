@@ -1,1 +1,3 @@
 # python-project
+Task Management Application (Python):
+Developed a command-line based task management application using Python to implement CRUD (Create, Read, Update, Delete) operations. Designed the program flow with user-friendly prompts, loops, and conditional branching to allow users to add, update, delete, and view tasks dynamically. Leveraged Python lists and methods like .append(), .index(), and .pop() to efficiently manage data in memory. Focused on clean input handling and modular code structure, demonstrating problem-solving skills and the ability to translate requirements into functional software.
